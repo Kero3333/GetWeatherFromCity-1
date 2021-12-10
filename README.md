@@ -18,7 +18,7 @@ This program's goal is to give a temperature depending on a given city. It would
 
 ## How it works
 
-- Ne pas oublier d'entrer le nom d'une ville après la commande "npm start", auquel cas le script reverra une erreur.
+
 - Do not forget to type the name of a city after entering the "npm start" command, or else the program would throw an error.
 - The name of this city must be written in English only.
 - Once the program launched, it would return the temperature of the given city.
